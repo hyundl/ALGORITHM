@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KthNum", "KthNum.pyproj", "{BC7F1AAC-0AD0-429F-86AE-684FC1776A8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC7F1AAC-0AD0-429F-86AE-684FC1776A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7F1AAC-0AD0-429F-86AE-684FC1776A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E10DC2B5-36C9-448C-96AB-B97292B2E89E}
+	EndGlobalSection
+EndGlobal
