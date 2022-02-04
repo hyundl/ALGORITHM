@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "9. Palindrome Number", "9. Palindrome Number.pyproj", "{CB6D5B59-F5E4-46B3-8E92-3BC72CE3679B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB6D5B59-F5E4-46B3-8E92-3BC72CE3679B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB6D5B59-F5E4-46B3-8E92-3BC72CE3679B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {916CA11C-6815-4384-92FE-7B11C1DD2558}
+	EndGlobalSection
+EndGlobal
