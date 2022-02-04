@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hash_2.camouflage", "Hash_2.camouflage.pyproj", "{43D6118A-DD60-4DC3-8774-35208BC5BF39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D6118A-DD60-4DC3-8774-35208BC5BF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D6118A-DD60-4DC3-8774-35208BC5BF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E551ED0-78B6-4866-BBB3-EA87D7EC4671}
+	EndGlobalSection
+EndGlobal
